@@ -1,4 +1,4 @@
-# go_concurrency_test
+# go concurrency
 working with concurrency in go
 
 
